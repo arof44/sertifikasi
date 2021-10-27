@@ -32,8 +32,7 @@
                         <a href="{{ url('/lihat-surat', $p->id) }}" class="badge bg-info"><span data-feather="eye"></span></a>
                         <a href="{{ url('/download', $p->file) }}" class="badge bg-warning"><span data-feather="download"></span></a>
                         <a href="/hapus/{{ $p->id }}">
-                            <button class="badge bg-danger border-0" onclick="return confirm('Yakin menghapus data?')"><span
-                                    data-feather="x-circle"></span></button>
+                            <button class="badge bg-danger border-0" onclick="return confirm('Yakin menghapus data?')"><span data-feather="x-circle"></span></button>
                         </a>
                     </td>
                 </tr>

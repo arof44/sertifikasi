@@ -20,7 +20,7 @@ class ArsipController extends Controller
             "title" => "About",
             "name" => "Muhammad Nur Arafah",
             "nim" => "1931710161",
-            "tanggal" => "04 Maret 2001",
+            "tanggal" => "27 Oktober 2021",
             "image" => "foto.jpg"
         ]);
     }

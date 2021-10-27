@@ -6,7 +6,7 @@
     <img src="img/{{ $image }}" alt="{{ $name }}" width="200" class="img-thumbnail rounded-circle float-left">
 </div>
 <div id="right">
-    <h5><b>Aplikasi Ini dibuat oleh :</b></h5>
+    <h5><b>Aplikasi Ini dibuat oleh</b></h5>
     <h5>
         <table>
             <tr>
